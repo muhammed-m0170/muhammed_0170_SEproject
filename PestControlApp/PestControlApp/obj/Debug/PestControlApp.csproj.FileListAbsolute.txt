@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\PestControlApp\PestControlApp\bin\Debug\PestControlApp.exe.config
+C:\Users\User\source\repos\PestControlApp\PestControlApp\bin\Debug\PestControlApp.exe
+C:\Users\User\source\repos\PestControlApp\PestControlApp\bin\Debug\PestControlApp.pdb
+C:\Users\User\source\repos\PestControlApp\PestControlApp\obj\Debug\PestControlApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PestControlApp\PestControlApp\obj\Debug\PestControlApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PestControlApp\PestControlApp\obj\Debug\PestControlApp.exe
+C:\Users\User\source\repos\PestControlApp\PestControlApp\obj\Debug\PestControlApp.pdb
